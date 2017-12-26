@@ -4,7 +4,11 @@ $cars = array(
 	array("BMW",15,13),
 	array("Saab",5,2),
 	array("Land Rover",17,15)
+<<<<<<< HEAD
 );
+=======
+ );
+>>>>>>> myBranch
 
 for ($row = 0; $row < 4; $row++) {
 	echo "<p><b>Row number $row</b></p>";
